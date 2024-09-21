@@ -33,7 +33,7 @@ This is a **Task Manager App** built with Python, designed by a beginner program
    ```bash
    python task_manager.py
 
-4. Follow the on-screen menu to interact with the Task Manager. 
+4. Follow the on-screen menu to interact with the Task Manager.
 #Example Output
 
   ```mathematica
