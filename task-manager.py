@@ -1,4 +1,4 @@
-# Simple Task Manager App
+# My Simple Task Manager App
 
 # Initialize an empty list to store tasks
 tasks = []
