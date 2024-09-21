@@ -1,6 +1,6 @@
 # My Simple Task Manager App
 
-# Initialize an empty list to store tasks
+# Initialize an empty list to store tasks.
 tasks = []
 
 # Function to display the menu
